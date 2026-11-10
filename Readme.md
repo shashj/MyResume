@@ -1,5 +1,10 @@
-Resume created as part of a wonderful [Udemy course](https://www.udemy.com/share/1013gG3@k1OuF95PAMKKVYzw0nJCmVgV-oWFjj7H4U3ThKS3hFIGFp7GKvZ_4w4j9BdoHkztkQ==/) by Angela.
+# Shashank Jatav — personal site
 
-If you use the template, make sure to credit the bootstrap library.
+Static site (plain HTML, CSS and vanilla JS, no build step) published with GitHub Pages at https://shashj.github.io/MyResume/.
 
-Thanks for visiting.
+- `index.html` — the single page
+- `assets/css/site.css`, `assets/js/site.js` — styles and behaviour (light/dark theme, scroll-spy, reveal animations)
+- `assets/resume/` — downloadable resume PDF
+- `portfolio-details-*.html` — small redirect stubs so old links keep working
+
+To preview locally: `python3 -m http.server` and open http://localhost:8000.
