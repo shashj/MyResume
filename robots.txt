@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shashj.github.io/MyResume/sitemap.xml
